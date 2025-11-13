@@ -4,23 +4,23 @@ chatgpt
 claude
 openai
 sora
+人工智能
+大模型
 
 iphone
 ipad
 mac
 ios
-
 苹果
 Apple
 
 华为
+
 小米
 
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 大疆
 DJI
@@ -32,16 +32,19 @@ DJI
 基金
 投资
 
-大模型
-
-
 政府
 科技
 
 中国
 美国
+俄罗斯
+德国
+英国
+印度
+法国
 日本
 韩国
+
 
 程序开发
 程序员
